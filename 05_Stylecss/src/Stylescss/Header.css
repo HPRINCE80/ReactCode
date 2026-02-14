@@ -1,0 +1,9 @@
+.head{
+    background-color: aqua;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.head button{
+    cursor: pointer;
+}
