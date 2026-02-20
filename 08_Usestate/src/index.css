@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.html , body {
+  height: 100%;
+  width: 100%;
+}
+button
+ {
+  margin: 20px;
+  padding: 10px 20x;
+}
+h1{
+  background-color: rgb(66, 57, 57);
+  font-size: 100px;
+  padding: 10px 85px;
+  border-radius: 5px;
+  margin: 20px;
+  width: fit-content;
+}
