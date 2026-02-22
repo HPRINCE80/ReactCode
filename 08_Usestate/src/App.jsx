@@ -6,17 +6,17 @@ const App = () => {
         setnum(num+1)
 
     }
-    function DecreaseNUm(){
+    function DecreaseNum(){
         setnum(num-1)
     }
     function In5(){
-        setnum(num+5)
+        setnum(num+500)
     }
   return (
     <div >
         <h1>{num}</h1>
       <button onClick={increaseNum}>Increase</button>
-      <button onClick={DecreaseNUm}>Decrease</button>
+      <button onClick={DecreaseNum}>Decrease</button>
       <button onClick={In5}>Increase 5</button>
     </div>
   )
